@@ -35,7 +35,7 @@ int main() {
 </html>
 ```
 ### Priority
-1.parents and brothers hapiness <br>
+1.Parents and brothers hapiness <br>
 2.Own happiness <br>
 3.Code for better world
 <hr>
